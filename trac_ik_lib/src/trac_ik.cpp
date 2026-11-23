@@ -34,7 +34,7 @@ OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <rclcpp/rclcpp.hpp>
 #include <limits>
 #include <kdl_parser/kdl_parser.hpp>
-#include <urdf/model.hpp>
+#include <urdf/model.h>
 
 namespace TRAC_IK
 {
